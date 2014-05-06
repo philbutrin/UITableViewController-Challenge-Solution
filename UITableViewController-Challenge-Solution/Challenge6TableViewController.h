@@ -1,5 +1,5 @@
 //
-//  PFLViewController.h
+//  Challenge6TableViewController.h
 //  UITableViewController-Challenge-Solution
 //
 //  Created by Philip Locke on 5/6/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface PFLViewController : UIViewController
+@interface Challenge6TableViewController : UITableViewController
 
 @end
